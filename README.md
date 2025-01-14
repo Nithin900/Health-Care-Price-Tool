@@ -49,7 +49,13 @@ Key exploratory data analysis conducted:
 - **Category Insights**: Identified trends in benefit inclusion and service limits.  
 
 ---
+## Dashboard Previews  
+### Payment Value Care Dashboard  
+![Payment Value Care Dashboard](dashboards/payment_value_care.png)  
 
+### Benefits Cost Sharing Dashboard  
+![Benefits Cost Sharing Dashboard](dashboards/benefits_cost_sharing.png)  
+---
 ### **Insights**  
 1. **Cost Variations Across States**:  
    - States like **Florida** and **Texas** exhibit higher MOOP values, indicating increased financial risk for residents.  
