@@ -51,10 +51,10 @@ Key exploratory data analysis conducted:
 ---
 ## Dashboard Previews  
 ### Payment Value Care Dashboard  
-![Payment Value Care Dashboard](dashboards/payment_value_care.png)  
+![Payment Value Care Dashboard](Dashboard/Payment-value-care.png)  
 
 ### Benefits Cost Sharing Dashboard  
-![Benefits Cost Sharing Dashboard](dashboards/benefits_cost_sharing.png)  
+![Benefits Cost Sharing Dashboard](Dashboard/Insurance Dashboard.png)  
 ---
 ### **Insights**  
 1. **Cost Variations Across States**:  
