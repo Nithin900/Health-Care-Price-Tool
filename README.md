@@ -55,7 +55,9 @@ Key exploratory data analysis conducted:
 
 ### Benefits Cost Sharing Dashboard  
 ![Benefits Cost Sharing Dashboard](Dashboard/Insurance Dashboard.png)  
+
 ---
+
 ### **Insights**  
 1. **Cost Variations Across States**:  
    - States like **Florida** and **Texas** exhibit higher MOOP values, indicating increased financial risk for residents.  
