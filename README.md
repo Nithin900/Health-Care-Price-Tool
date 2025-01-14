@@ -54,7 +54,7 @@ Key exploratory data analysis conducted:
 ![Payment Value Care Dashboard](Dashboard/Payment-value-care.png)  
 
 ### Benefits Cost Sharing Dashboard  
-![Benefits Cost Sharing Dashboard](Dashboard/Insurance Dashboard.png)  
+![Benefits Cost Sharing Dashboard](Dashboard/Insurance Dashboard.png)
 
 ---
 
