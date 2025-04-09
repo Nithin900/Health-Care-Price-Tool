@@ -1,0 +1,112 @@
+BenefitName,BenefitGroupID
+abortion for which public funding is prohibited,1
+accidental dental,2
+acupuncture,3
+allergy testing,4
+bariatric surgery,5
+basic dental care - adult,6
+basic dental care - child,7
+chemotherapy,8
+chiropractic care,9
+clinical trials,10
+complex oral surgery,11
+cosmetic orthodontia,12
+cosmetic surgery,13
+delivery and all inpatient services for maternity care,14
+dental anesthesia,15
+dental check-up for children,16
+dental x-rays,17
+denture adjustments,18
+denture reline and rebase,19
+diabetes care management,20
+diabetes education,21
+dialysis,22
+durable medical equipment,23
+emergency room services,24
+emergency transportation/ambulance,25
+extractions,26
+eye glasses for children,27
+fillings,28
+gender affirming care,29
+generic drugs,30
+habilitation services,31
+hearing aids,32
+home health care services,33
+hospice services,34
+"imaging (ct/pet scans, mris)",35
+immediate dentures,36
+implants,37
+infertility treatment,38
+infusion therapy,39
+inherited metabolic disorder - pku,40
+initial placement of bridges and dentures,41
+"inpatient hospital services (e.g., hospital stay)",42
+inpatient physician and surgical services,43
+laboratory outpatient and professional services,44
+long-term/custodial nursing home care,45
+major dental care - adult,46
+major dental care - child,47
+mental health other,48
+mental/behavioral health emergency room,49
+mental/behavioral health emergency transportation/ambulance,50
+mental/behavioral health er physician fee,51
+mental/behavioral health inpatient services,52
+mental/behavioral health outpatient other services,53
+mental/behavioral health outpatient services,54
+mental/behavioral health urgent care,55
+non-preferred brand drugs,56
+nutritional counseling,57
+occlusal adjustments,58
+off label prescription drugs,59
+orthodontia - adult,60
+orthodontia - child,61
+"other practitioner office visit (nurse, physician assistant)",62
+"outpatient facility fee (e.g., ambulatory surgery center)",63
+outpatient rehabilitation services,64
+outpatient surgery physician/surgical services,65
+partial pulpotomy,66
+periodontal and osseous surgery,67
+periodontal maintenance,68
+periodontal root scaling and planing,69
+periradicular surgical procedures,70
+post and core build-up,71
+preferred brand drugs,72
+prenatal and postnatal care,73
+preventive care/screening/immunization,74
+primary care visit to treat an injury or illness,75
+private-duty nursing,76
+prosthetic devices,77
+radiation,78
+recementation of space maintainers,79
+reconstructive surgery,80
+rehabilitative occupational and rehabilitative physical therapy,81
+rehabilitative speech therapy,82
+removal of fixed space maintainers,83
+restorative services,84
+root canal therapy and retreatment,85
+routine dental services (adult),86
+routine eye exam (adult),87
+routine eye exam for children,88
+routine foot care,89
+sealants,90
+skilled nursing facility,91
+specialist visit,92
+specialty drugs,93
+substance abuse disorder inpatient services,94
+substance abuse disorder outpatient services,95
+substance use disorder emergency room,96
+substance use disorder emergency transportation/ambulance,97
+substance use disorder er physician fee,98
+substance use disorder outpatient other services,99
+substance use disorder urgent care,100
+tier 2 - generic drugs,101
+tier 3 generic drugs,102
+tissue conditioning,103
+topical fluoride,104
+transplant,105
+treatment for temporomandibular joint disorders,106
+urgent care centers or facilities,107
+vital pulpotomy,108
+weight loss programs,109
+well baby visits and care,110
+x-rays and diagnostic imaging,111
